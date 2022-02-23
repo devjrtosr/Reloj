@@ -1,0 +1,13 @@
+body {
+  background: linear-gradient(to right, #cfbaf0, #a3c4f3);
+}
+
+.item {
+  font-size: 2rem;
+}
+
+.reloj {
+  text-align: center;
+  margin-top: 18rem;
+  position: relative;
+}
