@@ -1,0 +1,18 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.cuerpo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to right, #0a9396, #94d2bd, #0a9396);
+  height: 100vh;
+}
+
+.reloj {
+  color: #001219;
+  font-size: 45px;
+}
