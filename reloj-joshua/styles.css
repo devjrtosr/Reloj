@@ -7,7 +7,9 @@
 .cuerpo {
   display: flex;
   justify-content: center;
+  align-items: center;
   background: linear-gradient(to right, #0a9396, #94d2bd, #0a9396);
+  height: 100vh;
 }
 
 .reloj p {
@@ -15,7 +17,4 @@
   font-size: 45px;
 }
 
-.contenedor-reloj {
-  position: relative;
-  top: 20rem;
-}
+
