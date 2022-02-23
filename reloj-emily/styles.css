@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(241, 243, 243);
+  background: linear-gradient(to bottom, rgb(194, 123, 223), rgb(0, 247, 255));
+  background-repeat: no-repeat;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contenedor {
+  display: flex;
+  flex-direction: row;
+}
+.elemento {
+  font-size: 30px;
+}
